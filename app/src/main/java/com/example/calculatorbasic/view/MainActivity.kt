@@ -1,7 +1,8 @@
-package com.example.calculatorbasic
+package com.example.calculatorbasic.view
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.calculatorbasic.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
